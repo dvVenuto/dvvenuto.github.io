@@ -3,6 +3,8 @@ layout: default
 is_contact: true
 ---
 
+## Contact
+
 * Email: [david.venuto@mail.mcgill.ca](mailto:david.venuto@mail.mcgill.ca)
 * [LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)
 

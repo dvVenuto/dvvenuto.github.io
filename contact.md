@@ -17,3 +17,4 @@ is_contact: true
 
 ---
 
+[LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)

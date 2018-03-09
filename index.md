@@ -12,7 +12,7 @@ For more info see my [GitHub](https://github.com/dvVenuto)
 
 ## Research Interest
 
-Convex optimization problems for kernel machines and convolutional neural networks for computer vision.
+Convex optimization problems for kernel machines, convolutional neural networks for computer vision, and generative neural networks.
 
 ## Publications
 

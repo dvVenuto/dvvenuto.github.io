@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill studying convex optimization problems for kernel machines and convolutional neural networks.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 

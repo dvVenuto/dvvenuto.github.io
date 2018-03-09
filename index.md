@@ -24,7 +24,7 @@ Convex optimization problems for kernel machines and convolutional neural networ
 
 #### Conference Presentations
 
-1. **D Venuto**, et al., Comparative epigenomics in primate immune cells reveals putatively exapted transposable element families. *FASEB Meeting 2017*, Big Sky. (Short Talk)
+1. **D Venuto**, et al., Comparative epigenomics in primate immune cells reveals putatively exapted transposable element families. *FASEB Meeting* 2017, Big Sky. (Short Talk)
 
 2. **D Venuto**, et al., Mapping functional non-coding transcripts in primate immune cells using comparative epigenomics. *IHEC* 2016, Brussels. (Poster)
 

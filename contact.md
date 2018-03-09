@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [david.venuto@mail.mcgill.ca](mailto:david.venuto@mail.mcgill.ca)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> McGill University and Genome Quebec Innovation Centre
 >
-> London
+> 740 Dr Penfield Ave, Room 4200
 >
-> United Kingdom
+> Montréal (Québec) H3A 1A4, Canada
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)

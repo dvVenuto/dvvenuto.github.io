@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill in addition to other labs all over the world.  I hope to apply my research to data science problems.
+Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill in addition to other institutions all over the world.  I hope to apply my research to commercial data science problems.
 
 For more info see my [GitHub](https://github.com/dvVenuto)
 

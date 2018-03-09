@@ -16,13 +16,13 @@ Convex optimization problems for kernel machines and convolutional neural networ
 
 ## Publications
 
-# Journal Publications
+### Journal Publications
 
 1. **D Venuto**, TD Hocking, L Sphanurattana, M Sugiyama. Support vector comparison machines. Preprint arXiv:1401.8008. *Under Review at JMLR. 2017*. [Link](https://arxiv.org/pdf/1401.8008.pdf)
 2. **D Venuto**, G Bourque. Identifying co-opted transposable elements using comparative epigenomics. *Development, Growth and Differentiation*. 2018. [Link](http://onlinelibrary.wiley.com/doi/10.1111/dgd.12423/abstract)
 3. C Kanagaratham, V Chiwara, B Ho, S Moussette, M Youssef, **D Venuto**, L Jeannotte, G Bourque, JB de Sanctis, D Radzioch, A Naumova. Loss of the zona pellucida binding protein 2 (Zpbp2) gene in mice impacts airway hypersensitivity and lung lipid metabolism in a sex-dependent fashion. *Accepted to Mammalian Genome*. 2018.
 
-# Confrence Presentations
+### Confrence Presentations
 
 1. **D Venuto**, et al., Comparative epigenomics in primate immune cells reveals putatively exapted trans- posable element families. *FASEB Meeting 2017*, Big Sky. (Short Talk)
 

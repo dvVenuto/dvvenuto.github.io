@@ -4,6 +4,7 @@ is_contact: true
 ---
 
 * Email: [david.venuto@mail.mcgill.ca](mailto:david.venuto@mail.mcgill.ca)
+* [LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)
 
 ---
 
@@ -17,4 +18,3 @@ is_contact: true
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)

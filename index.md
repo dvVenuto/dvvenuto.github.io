@@ -30,4 +30,7 @@ Convex optimization problems for kernel machines and convolutional neural networ
 
 ## News
 
+- My novel learning to rank method is avalible on arXiv and is now under review at JMLR.
+- I recently had my comparative epigenomics paper accepted.
+
 

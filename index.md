@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill studying convex optimization problems for kernel machines and convolutional neural networks.
+Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill in addition to other labs all of the world.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+For more info see my [GitHub](https://github.com/dvVenuto)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Convex optimization problems for kernel machines and convolutional neural networks for computer vision.
 
 ## Publications
 

@@ -10,6 +10,8 @@ Hi! I am David, a student at McGill University graduating in May 2018.  I am sta
 
 For more info see my [GitHub](https://github.com/dvVenuto)
 
+I am also an avid traveller and have visited 30 countries in addition to working in 4.
+
 ## Research Interest
 
 Convex optimization problems for kernel machines, convolutional neural networks for computer vision, and generative neural networks.

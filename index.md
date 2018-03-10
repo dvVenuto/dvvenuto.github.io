@@ -22,7 +22,7 @@ Convex optimization problems for kernel machines, convolutional neural networks 
 2. **D Venuto**, G Bourque. Identifying co-opted transposable elements using comparative epigenomics. *Development, Growth and Differentiation*. 2018. [Link](http://onlinelibrary.wiley.com/doi/10.1111/dgd.12423/abstract)
 3. C Kanagaratham, V Chiwara, B Ho, S Moussette, M Youssef, **D Venuto**, L Jeannotte, G Bourque, JB de Sanctis, D Radzioch, A Naumova. Loss of the zona pellucida binding protein 2 (Zpbp2) gene in mice impacts airway hypersensitivity and lung lipid metabolism in a sex-dependent fashion. *Accepted to Mammalian Genome*. 2018.
 
-#### Conference Presentations
+#### Select Conference Presentations
 
 1. **D Venuto**, et al., Comparative epigenomics in primate immune cells reveals putatively exapted transposable element families. *FASEB Meeting* 2017, Big Sky. (Short Talk)
 

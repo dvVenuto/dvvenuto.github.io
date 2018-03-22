@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill in addition to other institutions all over the world.  I hope to apply my research to commercial data science problems.
 
-For more info see my [GitHub](https://github.com/dvVenuto)
+For more info see my [GitHub](https://github.com/dvVenuto).
 
 I am also an avid traveller and have visited 30 countries in addition to working in 4.  You can view my [Travel Map](https://drive.google.com/open?id=1_QtJdbULTcZpp6Jb8Da1D3T6d7vGn5np&usp=sharing).
 

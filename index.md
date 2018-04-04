@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-Hi! I am David, a student at McGill University graduating in May 2018.  I am starting my PhD in Computer Science in September 2018 and will be choosing a school very soon.  I have been involved in machine learning and bioinformatics research at McGill in addition to other institutions all over the world.  I hope to apply my research to commercial data science problems.
+Hi! I am David, a student at McGill University graduating in May 2018.  I hope to start my PhD in Computer Science in September 2018.  I have been involved in machine learning and bioinformatics research at McGill in addition to other institutions all over the world.  I hope to apply my research to commercial data science problems.
 
 For more info see my [GitHub](https://github.com/dvVenuto).
 
@@ -14,7 +14,7 @@ I am also an avid traveller and have visited 30 countries in addition to working
 
 ## Research Interest
 
-Convex optimization problems for kernel machines, convolutional neural networks for computer vision, and generative neural networks.
+Convex optimization problems, kernel machines, unsupervised learning using neural networks, and generative neural networks.
 
 ## Publications
 

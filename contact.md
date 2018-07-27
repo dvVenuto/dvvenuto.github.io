@@ -13,7 +13,9 @@ is_contact: true
 ## Mailing Address
 
 > McGill University
+>
 > L.M. Trottier Building
+>
 > 3630 Rue University
 >
 > Montreal, QC H3A 2B2

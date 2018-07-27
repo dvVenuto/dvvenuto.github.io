@@ -12,11 +12,11 @@ is_contact: true
 
 ## Mailing Address
 
-> McGill University and Genome Quebec Innovation Centre
+> McGill University
+> L.M. Trottier Building
+> 3630 Rue University
 >
-> 740 Dr Penfield Ave, Room 4200
->
-> Montréal (Québec) H3A 1A4, Canada
+> Montreal, QC H3A 2B2
 
 ---
 

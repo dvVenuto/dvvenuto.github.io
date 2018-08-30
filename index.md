@@ -14,7 +14,7 @@ I am also an avid traveller and have visited 30 countries in addition to working
 
 ## Research Interest
 
-Convex optimization problems, kernel machines, unsupervised learning using neural networks, and generative neural networks.
+Reinforcement learning problems, kernel machines, and generative neural networks.
 
 ## Publications
 

@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-Hi! I am David, a graduate student at Mila (Montreal Institute for Learning Algorithms) / McGill University.  I also am the Chief Data Scientist and Director of Elucidate Solutions Inc.
+Hi! I am David, a graduate student at Mila (Montreal Institute for Learning Algorithms) / McGill University.  I am also the Chief Data Scientist and Director of Elucidate Solutions Inc.
 
 For more info see my [GitHub](https://github.com/dvVenuto).
 

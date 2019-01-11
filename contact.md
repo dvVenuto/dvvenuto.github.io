@@ -5,20 +5,21 @@ is_contact: true
 
 ## Contact
 
-* Email: david [dot] venuto [at] mail [dot] mcgill [dot] ca
+* Academic Email: david [dot] venuto [at] mail [dot] mcgill [dot] ca
+* Corprate Email: david [dot] venuto [at] elucidatesolutions [dot] com
 * [LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)
 
 ---
 
 ## Mailing Address
 
-> McGill University
+> Mila
 >
-> L.M. Trottier Building
+> 6666 St-Urbain, #200
 >
-> 3630 Rue University
+> Montreal, QC
 >
-> Montreal, QC H3A 2B2
+> H2S 3H1
 
 ---
 

@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="pic.jpg">
+<img class="profile-picture" src="0.jpg">
 
 Hi! I am David, a graduate student at Mila (Montreal Institute for Learning Algorithms) / McGill University.  I am also the Chief Data Scientist and Director of Elucidate Solutions Inc.
 

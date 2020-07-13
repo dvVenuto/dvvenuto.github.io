@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="0.jpeg">
 
-David Venuto is a machine learrning researcher and PhD student at Mila (Montreal Institute for Learning Algorithms) / McGill University.  He is also the Director of AI at Elucidate Solutions Inc.
+David Venuto is a machine learrning researcher and PhD student at Mila and McGill University.  He is also the Director of AI at Elucidate Solutions Inc.
 
 For more info see my [GitHub](https://github.com/dvVenuto).
 

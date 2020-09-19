@@ -3,6 +3,9 @@ layout: default
 is_contact: true
 ---
 
+<img class="profile-picture" src="0.jpeg">
+
+
 ## Contact
 
 * Academic Email: david [dot] venuto [at] mail [dot] mcgill [dot] ca

@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="0.jpeg">
+<img class="profile-picture" src=434.jpg">
 
 David Venuto is a machine learning researcher and PhD student at Mila and McGill University.  He is also the Director of AI at Elucidate Solutions Inc.
 

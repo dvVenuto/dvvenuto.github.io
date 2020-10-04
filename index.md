@@ -16,7 +16,7 @@ For more information about David [see](https://www.wikidata.org/wiki/Q64536153).
 
 ## Research Interest
 
-David is mainly interested in reinforcement learning (RL). More specifically he focuses on hierarchical RL and inverse RL using options. Current he is also working on the consciousness prior in RL to be used with hierarchical policies and memory.
+David is mainly interested in reinforcement learning (RL). More specifically, he focuses on hierarchical RL and inverse RL using options. Current, he is focusing on the consciousness prior in RL to be used with hierarchical policies and memory.
 
 ## Publications 
 

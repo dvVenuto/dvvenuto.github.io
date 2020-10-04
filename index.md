@@ -8,7 +8,7 @@ layout: default
 
 David Venuto is a machine learning researcher and PhD student at Mila and McGill University under the supervision of Doina Precup.  He is also the Director of AI at Elucidate Solutions Inc.
 
-For more info see [GitHub](https://github.com/dvVenuto).
+For code related to research see [GitHub](https://github.com/dvVenuto).
 
 David Venuto is also an avid traveller and have visited 30 countries in addition to working in 4.  You can view his [Travel Map](https://drive.google.com/open?id=1_QtJdbULTcZpp6Jb8Da1D3T6d7vGn5np&usp=sharing).
 

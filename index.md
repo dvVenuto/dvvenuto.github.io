@@ -20,7 +20,7 @@ David is mainly interested in reinforcement learning (RL). More specifically, he
 
 ## Publications 
 
-David Venuto's latest publications can be found at [Google Scholar](https://scholar.google.ca/citations?user=32rbUtYAAAAJ&hl=en).
+David Venuto's latest publications can be found on [Google Scholar](https://scholar.google.ca/citations?user=32rbUtYAAAAJ&hl=en).
 
 
 

@@ -12,6 +12,9 @@ is_contact: true
 * Corprate Email: david [dot] venuto [at] elucidatesolutions [dot] com
 * [LinkedIn](https://www.linkedin.com/in/david-venuto-53344b9a/)
 
+
+For more information about David see [Wikidata](https://www.wikidata.org/wiki/Q64536153).
+
 ---
 
 ## Mailing Address

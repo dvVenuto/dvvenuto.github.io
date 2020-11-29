@@ -14,7 +14,7 @@ David Venuto is also an avid traveller and have visited 30 countries in addition
 
 ## Research Interest
 
-David is mainly interested in reinforcement learning (RL). More specifically, he focuses on hierarchical RL and inverse RL using options. Current, he is focusing on the consciousness prior in RL to better understand hierarchical top down learning and causality.
+David is mainly interested in reinforcement learning (RL). More specifically, he focuses on hierarchical RL and inverse RL using options. Currently, he is focusing on the consciousness prior in RL to better understand top down problem solving and out of distribution generalization.
 
 ## Publications 
 
